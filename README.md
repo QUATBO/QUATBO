@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quinton</h1>
-<h3 align="center">IT Support Specialist with Hardware, Network, and Security Expertise</h3>
+<h3 align="center">IT Enthusiast with Hands-On Experience in Hardware, Networking & Software Installation</h3>
 
-- 🌱 I’m currently learning **IT and Cybersecurity, for CompTIA A+, Network+ and Security+**
+- 🌱 I’m currently studying **IT and Cybersecurity, for CompTIA A+, Network+ and Security+ exams**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUATBO](https://github.com/QUATBO)
 
